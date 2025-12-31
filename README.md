@@ -23,7 +23,7 @@ Increasing difficulty
 
 Score tracking
 
-Visual + audio feedback (if added)
+Visual + audio feedback 
 
 🚀 How to Run
 
